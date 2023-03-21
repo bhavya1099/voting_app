@@ -44,4 +44,4 @@ In event of building ballot image or restart of the ballot app, service test sui
 
 ## How to generate deployment YAMLs
 
-Run the make generate command to generate the deployment YAMLs for all the services individually, if the users want to deploy a single microservice, these generated YAMLs will be located under generated-files/vote/templates/kubernetes-maifests.
+Run the make generate command to generate the deployment YAMLs for all the services individually, if the users want to deploy a single microservice, these generated YAMLs will be located under generated-files/vote/templates/kubernetes-maifests...
